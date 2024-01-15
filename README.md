@@ -1,4 +1,6 @@
-## alu-AirBnB_clone
+![65f4a1dd9c51265f49d0](https://github.com/Ronnie5562/alu-AirBnB_clone/assets/110787129/9f3f3ede-75d4-44fc-a1b3-7a71152e9633)
+
+## ALU-AirBnB_Clone
 
 Airbnb Clone Console Introduction Welcome to the Airbnb Clone Console, a streamlined command-line interface (CLI) application that simulates key features of the popular Airbnb platform. This tool provides an interactive environment for managing various aspects of a virtual Airbnb service, including user accounts, accommodations, reviews, and bookings.
 
