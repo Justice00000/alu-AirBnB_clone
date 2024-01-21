@@ -6,3 +6,14 @@ header {
     display: flex;
     align-items: center;
 }
+
+.logo {
+    background-image: url('../images/logo.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 200px;
+    height: 100%;
+    margin-left: 20px;
+    display: flex;
+    align-items: center;
+}
